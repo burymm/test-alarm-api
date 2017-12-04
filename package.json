@@ -1,0 +1,19 @@
+{
+  "name": "test-alarm-api",
+  "version": "1.0.0",
+  "description": "test alarm api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burymm/test-alarm-api.git"
+  },
+  "author": "burymm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burymm/test-alarm-api/issues"
+  },
+  "homepage": "https://github.com/burymm/test-alarm-api#readme"
+}
